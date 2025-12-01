@@ -26,7 +26,7 @@ Rounds played: 1
 Final Scores - You: 1, Computer: 0  
 Thanks for playing! Goodbye!
 
-The code is written in a clean, modular structure using the following functions:
+The code is written in a modular structure using the following functions:
 - get_user_throw(): prompts and validates user input
 - get_computer_throw(): generates the computer’s throw
 - compare_throws(): compares throws and determines round result
